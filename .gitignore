@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Gradio
-.gradio/
+
 flagged/
 
 # Data
